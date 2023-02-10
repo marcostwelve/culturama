@@ -8,7 +8,7 @@
   Projeto realizado como projeto prático da Alura, nas formações de HTML e CSS</br/>
 </p>
 <p align="center">
-  
+  ![pagina-culturama](https://user-images.githubusercontent.com/94411600/218220154-f4f75108-7b77-4f6f-bab9-7ace9b7ae18b.jpeg)
 </p>
 
 ## Ferramentas utilizadas:
