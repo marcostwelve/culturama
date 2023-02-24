@@ -24,7 +24,7 @@
 
 A culturama é uma página que informa sobre os eventos da cidade.
 
--[visite o projeto online](https://culturama-alpha.vercel.app/)
+- [visite o projeto online](https://culturama-alpha.vercel.app/)
 
 ## Feito por:
 
